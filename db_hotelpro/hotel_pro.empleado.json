@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d54"
+  },
+  "id_empleado": 1,
+  "nombre": "Carlos",
+  "apellido": "Ramirez",
+  "DNI": "1001234567",
+  "telefono": "3001112233",
+  "correo_electronico": "carlos.ramirez@estanciasdelujo.com",
+  "cargo": "Gerente",
+  "fecha_contratacion": "2015-03-01",
+  "id_hotel": 1
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d55"
+  },
+  "id_empleado": 2,
+  "nombre": "Maria",
+  "apellido": "Gomez",
+  "DNI": "1002234567",
+  "telefono": "3002223344",
+  "correo_electronico": "maria.gomez@estanciasdelujo.com",
+  "cargo": "Gerente",
+  "fecha_contratacion": "2016-05-15",
+  "id_hotel": 2
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d56"
+  },
+  "id_empleado": 3,
+  "nombre": "Andres",
+  "apellido": "Lopez",
+  "DNI": "1003234567",
+  "telefono": "3003334455",
+  "correo_electronico": "andres.lopez@estanciasdelujo.com",
+  "cargo": "Gerente",
+  "fecha_contratacion": "2019-01-10",
+  "id_hotel": 3
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d57"
+  },
+  "id_empleado": 4,
+  "nombre": "Laura",
+  "apellido": "Torres",
+  "DNI": "1004234567",
+  "telefono": "3004445566",
+  "correo_electronico": "laura.torres@estanciasdelujo.com",
+  "cargo": "Gerente",
+  "fecha_contratacion": "2013-07-20",
+  "id_hotel": 4
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d58"
+  },
+  "id_empleado": 5,
+  "nombre": "Jorge",
+  "apellido": "Martinez",
+  "DNI": "1005234567",
+  "telefono": "3005556677",
+  "correo_electronico": "jorge.martinez@estanciasdelujo.com",
+  "cargo": "Gerente",
+  "fecha_contratacion": "2021-02-11",
+  "id_hotel": 5
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d59"
+  },
+  "id_empleado": 6,
+  "nombre": "Diana",
+  "apellido": "Vargas",
+  "DNI": "1006234567",
+  "telefono": "3006667788",
+  "correo_electronico": "diana.vargas@estanciasdelujo.com",
+  "cargo": "Recepcionista",
+  "fecha_contratacion": "2020-04-12",
+  "id_hotel": 1
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d5a"
+  },
+  "id_empleado": 7,
+  "nombre": "Felipe",
+  "apellido": "Castro",
+  "DNI": "1007234567",
+  "telefono": "3007778899",
+  "correo_electronico": "felipe.castro@estanciasdelujo.com",
+  "cargo": "Botones",
+  "fecha_contratacion": "2018-09-05",
+  "id_hotel": 2
+},
+{
+  "_id": {
+    "$oid": "6af5cb228c6e6979bc041d5b"
+  },
+  "id_empleado": 8,
+  "nombre": "Valentina",
+  "apellido": "Rios",
+  "DNI": "1008234567",
+  "telefono": "3008889900",
+  "correo_electronico": "valentina.rios@estanciasdelujo.com",
+  "cargo": "Mesero",
+  "fecha_contratacion": "2017-06-23",
+  "id_hotel": 3
+}]

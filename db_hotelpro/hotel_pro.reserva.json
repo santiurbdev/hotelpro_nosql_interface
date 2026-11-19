@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6af5cbba8c6e6979bc041d6f"
+  },
+  "id_reserva": 1,
+  "fecha_creacion": "2026-09-01 10:15:00",
+  "fecha_llegada": "2026-09-10",
+  "fecha_salida": "2026-09-13",
+  "numero_noches": 3,
+  "numero_adultos": 2,
+  "numero_ninos": 0,
+  "deposito_recibido": 100000,
+  "metodo_pago_deposito": "Tarjeta",
+  "solicitudes_especiales": null,
+  "estado_reserva": "confirmada",
+  "id_cliente": 1,
+  "habitaciones_ids": [
+    1
+  ],
+  "tarifa": {
+    "tarifa_base": 250000,
+    "impuestos": 47500,
+    "descuento_estadia_prolongada": 10,
+    "condiciones_especiales": "No reembolsable",
+    "temporada": "Baja"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cbba8c6e6979bc041d70"
+  },
+  "id_reserva": 2,
+  "fecha_creacion": "2026-09-02 11:00:00",
+  "fecha_llegada": "2026-09-15",
+  "fecha_salida": "2026-09-18",
+  "numero_noches": 3,
+  "numero_adultos": 2,
+  "numero_ninos": 1,
+  "deposito_recibido": 150000,
+  "metodo_pago_deposito": "Tarjeta",
+  "solicitudes_especiales": "Cama adicional",
+  "estado_reserva": "confirmada",
+  "id_cliente": 2,
+  "habitaciones_ids": [
+    2
+  ],
+  "tarifa": {
+    "tarifa_base": 380000,
+    "impuestos": 72200,
+    "descuento_estadia_prolongada": 5,
+    "condiciones_especiales": null,
+    "temporada": "Media"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cbba8c6e6979bc041d71"
+  },
+  "id_reserva": 3,
+  "fecha_creacion": "2026-08-20 09:30:00",
+  "fecha_llegada": "2026-09-05",
+  "fecha_salida": "2026-09-08",
+  "numero_noches": 3,
+  "numero_adultos": 4,
+  "numero_ninos": 0,
+  "deposito_recibido": 200000,
+  "metodo_pago_deposito": "Efectivo",
+  "solicitudes_especiales": null,
+  "estado_reserva": "completada",
+  "id_cliente": 3,
+  "habitaciones_ids": [
+    3
+  ],
+  "tarifa": {
+    "tarifa_base": 600000,
+    "impuestos": 114000,
+    "descuento_estadia_prolongada": null,
+    "condiciones_especiales": "Incluye desayuno",
+    "temporada": "Alta"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cbba8c6e6979bc041d72"
+  },
+  "id_reserva": 4,
+  "fecha_creacion": "2026-07-15 14:20:00",
+  "fecha_llegada": "2026-08-01",
+  "fecha_salida": "2026-08-05",
+  "numero_noches": 4,
+  "numero_adultos": 5,
+  "numero_ninos": 2,
+  "deposito_recibido": 300000,
+  "metodo_pago_deposito": "Transferencia",
+  "solicitudes_especiales": "Necesitan cuna",
+  "estado_reserva": "cancelada",
+  "id_cliente": 4,
+  "habitaciones_ids": [
+    4
+  ],
+  "tarifa": {
+    "tarifa_base": 700000,
+    "impuestos": 133000,
+    "descuento_estadia_prolongada": 15,
+    "condiciones_especiales": null,
+    "temporada": "Alta"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cbba8c6e6979bc041d73"
+  },
+  "id_reserva": 5,
+  "fecha_creacion": "2026-09-20 16:45:00",
+  "fecha_llegada": "2026-12-20",
+  "fecha_salida": "2026-12-27",
+  "numero_noches": 7,
+  "numero_adultos": 2,
+  "numero_ninos": 0,
+  "deposito_recibido": 500000,
+  "metodo_pago_deposito": "Tarjeta",
+  "solicitudes_especiales": "Luna de miel",
+  "estado_reserva": "confirmada",
+  "id_cliente": 5,
+  "habitaciones_ids": [
+    5
+  ],
+  "tarifa": {
+    "tarifa_base": 950000,
+    "impuestos": 180500,
+    "descuento_estadia_prolongada": null,
+    "condiciones_especiales": "Tarifa VIP",
+    "temporada": "Alta Semana Santa"
+  }
+}]

@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "6af5cd888c6e6979bc041d8c"
+  },
+  "id_evento": 1,
+  "tipo_evento": "Boda",
+  "fecha_hora_inicio": "2026-12-20 18:00:00",
+  "duracion": 6,
+  "numero_asistentes": 150,
+  "montaje_solicitado": "Mesas redondas",
+  "precio_total": 12000000,
+  "estado_evento": "confirmado",
+  "id_cliente": 5,
+  "id_salon": 5,
+  "catering": [
+    {
+      "nombre_catering": "Banquete de 3 tiempos",
+      "precio_por_persona": 90000,
+      "cantidad": 150
+    },
+    {
+      "nombre_catering": "Coctel de bienvenida",
+      "precio_por_persona": 35000,
+      "cantidad": 150
+    }
+  ],
+  "equipamiento": [
+    {
+      "nombre_equipo": "Sistema de sonido",
+      "cantidad": 1
+    },
+    {
+      "nombre_equipo": "Iluminacion LED",
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5cd888c6e6979bc041d8d"
+  },
+  "id_evento": 2,
+  "tipo_evento": "Conferencia",
+  "fecha_hora_inicio": "2026-10-05 08:00:00",
+  "duracion": 8,
+  "numero_asistentes": 80,
+  "montaje_solicitado": "Auditorio",
+  "precio_total": 4500000,
+  "estado_evento": "confirmado",
+  "id_cliente": 4,
+  "id_salon": 1,
+  "catering": [
+    {
+      "nombre_catering": "Desayuno buffet",
+      "precio_por_persona": 25000,
+      "cantidad": 80
+    }
+  ],
+  "equipamiento": [
+    {
+      "nombre_equipo": "Proyector",
+      "cantidad": 1
+    },
+    {
+      "nombre_equipo": "Microfono inalambrico",
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5cd888c6e6979bc041d8e"
+  },
+  "id_evento": 3,
+  "tipo_evento": "Reunion corporativa",
+  "fecha_hora_inicio": "2026-09-30 09:00:00",
+  "duracion": 3,
+  "numero_asistentes": 20,
+  "montaje_solicitado": "Sala de juntas",
+  "precio_total": 900000,
+  "estado_evento": "confirmado",
+  "id_cliente": 2,
+  "id_salon": 4,
+  "catering": [
+    {
+      "nombre_catering": "Estacion de postres",
+      "precio_por_persona": 20000,
+      "cantidad": 20
+    }
+  ],
+  "equipamiento": [
+    {
+      "nombre_equipo": "Microfono inalambrico",
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5cd888c6e6979bc041d8f"
+  },
+  "id_evento": 4,
+  "tipo_evento": "Cumpleanos",
+  "fecha_hora_inicio": "2026-11-15 19:00:00",
+  "duracion": 5,
+  "numero_asistentes": 60,
+  "montaje_solicitado": "Coctel",
+  "precio_total": 3000000,
+  "estado_evento": "pendiente",
+  "id_cliente": 3,
+  "id_salon": 3,
+  "catering": [],
+  "equipamiento": []
+},
+{
+  "_id": {
+    "$oid": "6af5cd888c6e6979bc041d90"
+  },
+  "id_evento": 5,
+  "tipo_evento": "Lanzamiento de producto",
+  "fecha_hora_inicio": "2026-10-20 17:00:00",
+  "duracion": 4,
+  "numero_asistentes": 100,
+  "montaje_solicitado": "Coctel",
+  "precio_total": 5000000,
+  "estado_evento": "confirmado",
+  "id_cliente": 1,
+  "id_salon": 2,
+  "catering": [
+    {
+      "nombre_catering": "Coctel de bienvenida",
+      "precio_por_persona": 35000,
+      "cantidad": 100
+    }
+  ],
+  "equipamiento": []
+}]

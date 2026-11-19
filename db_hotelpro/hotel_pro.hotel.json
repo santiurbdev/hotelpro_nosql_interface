@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6af5c7688c6e6979bc041d4c"
+  },
+  "id_hotel": 1,
+  "nombre": "Estancias de Lujo Bogota",
+  "categoria_estrellas": 5,
+  "direccion": "Cra 7 # 82-45, Bogota",
+  "telefono": "6016015550",
+  "correo_electronico": "bogota@estanciasdelujo.com",
+  "anio_inauguracion": 2010,
+  "numero_total_habitaciones": 80,
+  "hora_checkin": "15:00:00",
+  "hora_checkout": "12:00:00",
+  "id_gerente": 1,
+  "servicios_generales": [
+    "Wifi gratuito",
+    "Piscina"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5c7688c6e6979bc041d4d"
+  },
+  "id_hotel": 2,
+  "nombre": "Estancias de Lujo Cartagena",
+  "categoria_estrellas": 5,
+  "direccion": "Calle Bocagrande #5-10, Cartagena",
+  "telefono": "6056655500",
+  "correo_electronico": "cartagena@estanciasdelujo.com",
+  "anio_inauguracion": 2015,
+  "numero_total_habitaciones": 60,
+  "hora_checkin": "15:00:00",
+  "hora_checkout": "12:00:00",
+  "id_gerente": 2,
+  "servicios_generales": [
+    "Piscina",
+    "Spa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5c7688c6e6979bc041d4e"
+  },
+  "id_hotel": 3,
+  "nombre": "Estancias de Lujo Medellin",
+  "categoria_estrellas": 4,
+  "direccion": "Cra 43A #7-50, El Poblado",
+  "telefono": "6044445500",
+  "correo_electronico": "medellin@estanciasdelujo.com",
+  "anio_inauguracion": 2018,
+  "numero_total_habitaciones": 50,
+  "hora_checkin": "14:00:00",
+  "hora_checkout": "11:00:00",
+  "id_gerente": 3,
+  "servicios_generales": [
+    "Gimnasio"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5c7688c6e6979bc041d4f"
+  },
+  "id_hotel": 4,
+  "nombre": "Estancias de Lujo Cali",
+  "categoria_estrellas": 4,
+  "direccion": "Av 6N #23-45, Cali",
+  "telefono": "6023335500",
+  "correo_electronico": "cali@estanciasdelujo.com",
+  "anio_inauguracion": 2012,
+  "numero_total_habitaciones": 45,
+  "hora_checkin": "15:00:00",
+  "hora_checkout": "12:00:00",
+  "id_gerente": 4,
+  "servicios_generales": []
+},
+{
+  "_id": {
+    "$oid": "6af5c7688c6e6979bc041d50"
+  },
+  "id_hotel": 5,
+  "nombre": "Estancias de Lujo San Andres",
+  "categoria_estrellas": 5,
+  "direccion": "Av Colombia s/n, San Andres",
+  "telefono": "6085125500",
+  "correo_electronico": "sanandres@estanciasdelujo.com",
+  "anio_inauguracion": 2020,
+  "numero_total_habitaciones": 40,
+  "hora_checkin": "15:00:00",
+  "hora_checkout": "12:00:00",
+  "id_gerente": 5,
+  "servicios_generales": []
+}]

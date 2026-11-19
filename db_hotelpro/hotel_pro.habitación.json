@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "6af5cb638c6e6979bc041d5f"
+  },
+  "id_habitacion": 1,
+  "numero_habitacion": "101",
+  "piso": 1,
+  "orientacion": "Vista ciudad",
+  "estado_actual": "disponible",
+  "caracteristicas_especiales": null,
+  "tarifa_base": 250000,
+  "id_hotel": 1,
+  "tipo_habitacion": {
+    "descripcion": "Individual",
+    "capacidad_maxima_huespedes": 1,
+    "tamano_m2": 18.5,
+    "numero_camas": 1,
+    "tipo_camas": "Sencilla",
+    "amenidades": [
+      "TV por cable"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cb638c6e6979bc041d60"
+  },
+  "id_habitacion": 2,
+  "numero_habitacion": "201",
+  "piso": 2,
+  "orientacion": "Vista piscina",
+  "estado_actual": "ocupada",
+  "caracteristicas_especiales": null,
+  "tarifa_base": 320000,
+  "id_hotel": 1,
+  "tipo_habitacion": {
+    "descripcion": "Doble",
+    "capacidad_maxima_huespedes": 2,
+    "tamano_m2": 25,
+    "numero_camas": 2,
+    "tipo_camas": "Dobles",
+    "amenidades": [
+      "TV por cable",
+      "Aire acondicionado"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cb638c6e6979bc041d61"
+  },
+  "id_habitacion": 3,
+  "numero_habitacion": "305",
+  "piso": 3,
+  "orientacion": "Vista mar",
+  "estado_actual": "disponible",
+  "caracteristicas_especiales": "Cuarto accesible",
+  "tarifa_base": 550000,
+  "id_hotel": 2,
+  "tipo_habitacion": {
+    "descripcion": "Suite",
+    "capacidad_maxima_huespedes": 4,
+    "tamano_m2": 45,
+    "numero_camas": 2,
+    "tipo_camas": "Queen",
+    "amenidades": [
+      "Minibar"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cb638c6e6979bc041d62"
+  },
+  "id_habitacion": 4,
+  "numero_habitacion": "402",
+  "piso": 4,
+  "orientacion": "Interior",
+  "estado_actual": "en mantenimiento",
+  "caracteristicas_especiales": null,
+  "tarifa_base": 280000,
+  "id_hotel": 3,
+  "tipo_habitacion": {
+    "descripcion": "Individual",
+    "capacidad_maxima_huespedes": 1,
+    "tamano_m2": 18.5,
+    "numero_camas": 1,
+    "tipo_camas": "Sencilla",
+    "amenidades": []
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cb638c6e6979bc041d63"
+  },
+  "id_habitacion": 5,
+  "numero_habitacion": "501",
+  "piso": 5,
+  "orientacion": "Vista mar",
+  "estado_actual": "disponible",
+  "caracteristicas_especiales": null,
+  "tarifa_base": 950000,
+  "id_hotel": 5,
+  "tipo_habitacion": {
+    "descripcion": "Presidencial",
+    "capacidad_maxima_huespedes": 6,
+    "tamano_m2": 90,
+    "numero_camas": 2,
+    "tipo_camas": "King",
+    "amenidades": [
+      "Balcon privado"
+    ]
+  }
+}]

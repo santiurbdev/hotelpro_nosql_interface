@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6af5cd5c8c6e6979bc041d85"
+  },
+  "id_salon": 1,
+  "nombre_salon": "Salon Imperial",
+  "ubicacion_en_hotel": "Piso 2, Ala Norte",
+  "capacidad_maxima": 200,
+  "tamano_m2": 180,
+  "id_hotel": 1,
+  "configuraciones": [
+    {
+      "nombre_configuracion": "Teatro",
+      "capacidad_configuracion": 200
+    },
+    {
+      "nombre_configuracion": "Banquete",
+      "capacidad_configuracion": 150
+    }
+  ],
+  "tarifas_duracion": [
+    {
+      "duracion_horas": 4,
+      "tarifa": 2000000
+    },
+    {
+      "duracion_horas": 8,
+      "tarifa": 3500000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5cd5c8c6e6979bc041d86"
+  },
+  "id_salon": 2,
+  "nombre_salon": "Salon Cartagena",
+  "ubicacion_en_hotel": "Piso 1",
+  "capacidad_maxima": 150,
+  "tamano_m2": 130,
+  "id_hotel": 2,
+  "configuraciones": [],
+  "tarifas_duracion": []
+},
+{
+  "_id": {
+    "$oid": "6af5cd5c8c6e6979bc041d87"
+  },
+  "id_salon": 3,
+  "nombre_salon": "Salon Poblado",
+  "ubicacion_en_hotel": "Piso 3",
+  "capacidad_maxima": 100,
+  "tamano_m2": 90,
+  "id_hotel": 3,
+  "configuraciones": [
+    {
+      "nombre_configuracion": "En U",
+      "capacidad_configuracion": 60
+    }
+  ],
+  "tarifas_duracion": [
+    {
+      "duracion_horas": 4,
+      "tarifa": 1200000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5cd5c8c6e6979bc041d88"
+  },
+  "id_salon": 4,
+  "nombre_salon": "Salon Pacifico",
+  "ubicacion_en_hotel": "Piso 1",
+  "capacidad_maxima": 120,
+  "tamano_m2": 100,
+  "id_hotel": 4,
+  "configuraciones": [
+    {
+      "nombre_configuracion": "Escuela",
+      "capacidad_configuracion": 100
+    }
+  ],
+  "tarifas_duracion": [
+    {
+      "duracion_horas": 3,
+      "tarifa": 900000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6af5cd5c8c6e6979bc041d89"
+  },
+  "id_salon": 5,
+  "nombre_salon": "Salon Caribe",
+  "ubicacion_en_hotel": "Piso 2",
+  "capacidad_maxima": 250,
+  "tamano_m2": 220,
+  "id_hotel": 5,
+  "configuraciones": [
+    {
+      "nombre_configuracion": "Coctel",
+      "capacidad_configuracion": 180
+    }
+  ],
+  "tarifas_duracion": [
+    {
+      "duracion_horas": 6,
+      "tarifa": 2500000
+    }
+  ]
+}]

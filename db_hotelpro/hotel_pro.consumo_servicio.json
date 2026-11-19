@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6af5cce28c6e6979bc041d7d"
+  },
+  "id_consumo": 1,
+  "fecha_hora_consumo": "2026-09-11 16:00:00",
+  "cantidad": 1,
+  "precio_aplicado": 120000,
+  "observaciones": null,
+  "id_cliente": 1,
+  "id_habitacion": 1,
+  "id_empleado": 5,
+  "servicio": {
+    "nombre_servicio": "Masaje relajante",
+    "descripcion": "Masaje corporal de 60 minutos"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cce28c6e6979bc041d7e"
+  },
+  "id_consumo": 2,
+  "fecha_hora_consumo": "2026-09-16 09:00:00",
+  "cantidad": 2,
+  "precio_aplicado": 70000,
+  "observaciones": "Dos piezas de ropa",
+  "id_cliente": 2,
+  "id_habitacion": 2,
+  "id_empleado": 5,
+  "servicio": {
+    "nombre_servicio": "Lavanderia express",
+    "descripcion": "Lavado y planchado en 24 horas"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cce28c6e6979bc041d7f"
+  },
+  "id_consumo": 3,
+  "fecha_hora_consumo": "2026-09-06 20:00:00",
+  "cantidad": 1,
+  "precio_aplicado": 25000,
+  "observaciones": null,
+  "id_cliente": 3,
+  "id_habitacion": 3,
+  "id_empleado": 3,
+  "servicio": {
+    "nombre_servicio": "Room service 24h",
+    "descripcion": "Servicio a la habitacion"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cce28c6e6979bc041d80"
+  },
+  "id_consumo": 4,
+  "fecha_hora_consumo": "2026-08-02 07:15:00",
+  "cantidad": 2,
+  "precio_aplicado": 80000,
+  "observaciones": "Clase privada",
+  "id_cliente": 4,
+  "id_habitacion": 4,
+  "id_empleado": 5,
+  "servicio": {
+    "nombre_servicio": "Clases de yoga",
+    "descripcion": "Sesion grupal en zona de piscina"
+  }
+},
+{
+  "_id": {
+    "$oid": "6af5cce28c6e6979bc041d81"
+  },
+  "id_consumo": 5,
+  "fecha_hora_consumo": "2026-09-22 11:00:00",
+  "cantidad": 1,
+  "precio_aplicado": 90000,
+  "observaciones": null,
+  "id_cliente": 5,
+  "id_habitacion": 5,
+  "id_empleado": 3,
+  "servicio": {
+    "nombre_servicio": "Facial spa",
+    "descripcion": "Tratamiento facial hidratante"
+  }
+}]

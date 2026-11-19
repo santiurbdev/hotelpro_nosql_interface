@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6af5cc058c6e6979bc041d76"
+  },
+  "id_checkin_checkout": 1,
+  "fecha_hora_llegada_real": null,
+  "fecha_hora_salida_real": null,
+  "forma_pago": "Tarjeta",
+  "deposito_garantia": 100000,
+  "observaciones": "Pendiente por llegar",
+  "id_reserva": 1,
+  "id_habitacion": 1,
+  "id_empleado": 3
+},
+{
+  "_id": {
+    "$oid": "6af5cc058c6e6979bc041d77"
+  },
+  "id_checkin_checkout": 2,
+  "fecha_hora_llegada_real": null,
+  "fecha_hora_salida_real": null,
+  "forma_pago": "Tarjeta",
+  "deposito_garantia": 150000,
+  "observaciones": "Pendiente por llegar",
+  "id_reserva": 2,
+  "id_habitacion": 2,
+  "id_empleado": 3
+},
+{
+  "_id": {
+    "$oid": "6af5cc058c6e6979bc041d78"
+  },
+  "id_checkin_checkout": 3,
+  "fecha_hora_llegada_real": "2026-09-05 15:10:00",
+  "fecha_hora_salida_real": "2026-09-08 11:05:00",
+  "forma_pago": "Efectivo",
+  "deposito_garantia": 200000,
+  "observaciones": "Todo en orden",
+  "id_reserva": 3,
+  "id_habitacion": 3,
+  "id_empleado": 3
+},
+{
+  "_id": {
+    "$oid": "6af5cc058c6e6979bc041d79"
+  },
+  "id_checkin_checkout": 4,
+  "fecha_hora_llegada_real": null,
+  "fecha_hora_salida_real": null,
+  "forma_pago": "Transferencia",
+  "deposito_garantia": null,
+  "observaciones": "Reserva cancelada antes de la llegada",
+  "id_reserva": 4,
+  "id_habitacion": 4,
+  "id_empleado": 5
+},
+{
+  "_id": {
+    "$oid": "6af5cc058c6e6979bc041d7a"
+  },
+  "id_checkin_checkout": 5,
+  "fecha_hora_llegada_real": null,
+  "fecha_hora_salida_real": null,
+  "forma_pago": "Tarjeta",
+  "deposito_garantia": 500000,
+  "observaciones": null,
+  "id_reserva": 5,
+  "id_habitacion": 5,
+  "id_empleado": 3
+}]
