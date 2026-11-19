@@ -142,9 +142,10 @@ mongoimport --db hotel_pro --collection consumo_servicio --file db_hotelpro/hote
 python db_hotelpro_interfaz.py
 ```
 ---
-Autor 👤
-Nombre: Santiago Uribe Restrepo
+### Autor 👤
+* **Nombre:** Santiago Uribe Restrepo
 
-Rol: Estudiante y Desarrollador de Software Backend
+* **Rol:** Estudiante y Desarrollador de Software Backend
 
-GitHub: @santiurbdev
+* **GitHub:** @santiurbdev
+---
